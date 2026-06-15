@@ -1,0 +1,9 @@
+Al consultar la ruta GET de los reportes, sale el siguiente mensaje, donde se puede ver que es el reporte número 1 con la etiqueta de "infraestructura":
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
