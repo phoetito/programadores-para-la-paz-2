@@ -1,0 +1,7 @@
+5 prácticas de seguridad que deberían aplicarse en una plataforma digital comunitaria:
+
+1. Utilizar cifrado de datos.
+2. Habilitar herramientas de reporte accesibles para fallas, bugs, errores, etc.
+3. Realizar copias de seguridad automaticas.
+4. Proteger los datos personales de los usuarios.
+5. Realizar auditorias de seguridad y actualizaciones.

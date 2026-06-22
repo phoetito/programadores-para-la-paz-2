@@ -1,0 +1,10 @@
+1. ¿Qué información muestra cada comando?
+
+unamed -a | Al utilizar el terminal de windows el sistema no reconoce el comando, para este caso tuve que utilizar systeminfo para ver toda la información disponible del sistema operativo.
+
+whoami | Muestra la cuenta de usuario que estoy usando.
+
+
+2. ¿Por qué es útil conocer información del sistema cuando se administra un servidor? 
+
+Considero que es importante porque tener la información detallada del sistema operativo, especificaciones del hardware, información del BIOS, etc., ayuda a saber con que se está trabajando, cuales son sus ventajas y limitaciones, para poder actuar en función de estos a la hora de tomar decisiones o resolver problemas.
