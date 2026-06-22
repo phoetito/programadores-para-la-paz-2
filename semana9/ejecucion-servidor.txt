@@ -1,0 +1,1 @@
+Cuando se ejecuta el comando node server.js aparece el siguiente mensaje en la terminal: Servidor ejecutándose en puerto 3000. Al visitar la ruta /estado aparece la siguiente respuesta: {"estado":"Servidor funcionando","servicio":"API comunitaria"}

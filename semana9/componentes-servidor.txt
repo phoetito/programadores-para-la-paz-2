@@ -1,0 +1,9 @@
+1. Sistema operativo: Es la estructura de software que controla los recursos y el hardware del computador, por lo cual es la plataforma base que permite ejecutar programas y comunicarse con la máquina.
+
+2. Node.js: Es una multiplataforma de código abierto, que permite a los desarrolladores correr código de JavaScript por fuera del navegador. Facilita la construcción de aplicaciones de red y servidores backend utilizando un lenguaje originalmente usado para páginas web.
+
+3. Aplicación server.js: Es el nombre de archivo habitual para el script principal de la aplicación de Node.js, donde el servidor es configurado, las rutas son definidas y el tráfico entrante manejado.
+
+4. Puerto: Es como una "puerta" virtual dentro de un servidor o computador que permite el paso de un tipo específico de tráfico.
+
+5. Logs: Son archivos de texto generados por el sistema o consola, que registra eventos, errores y actividades que suceden dentro de la aplicación.
