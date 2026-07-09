@@ -1,0 +1,11 @@
+1. Como habitante quiero registrar una alerta sobre un problema en la infraestructura pública.
+
+2. Como líder comunitario que reportó un problema quiero ver el estado de mi reporte.
+
+3. Como coordinador quiero una bandeja de entrada interna para cambiar el estado de los reportes y asignar prioridades.
+
+4. Como habitante quiero tener la opción de hacer mi reporte de forma anónima.
+
+5. Como líder comunitario quiero descargar un reporte en Excel con las estadísticas de los problemas resueltos y pendientes.
+
+6. Como coordinador quiero ver un registro de qué miembro del equipo modificó o cerró cada caso

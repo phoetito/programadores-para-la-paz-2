@@ -1,0 +1,7 @@
+Evento: Cambio de estado en una denuncia.
+
+Acción: enviar mensaje a Telegram.
+
+Mensaje: “Actualización de caso #4568. El reporte ha cambiado de estado.”
+
+Información que no debe enviarse: Nombres o datos de contacto específicos y detalles de direcciones exactas que puedan exponer la ubicación o identidad de los involucrados.
