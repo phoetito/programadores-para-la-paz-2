@@ -1,0 +1,24 @@
+Entidad: Reporte
+
+Campos principales:
+- id
+- titulo
+- usuario_id
+- descripcion
+- fecha
+
+Propósito:
+Guardar los reportes hechos por la comunidad dentro de la plataforma.
+
+
+Entidad: Estado
+
+Campos principales:
+- id
+- reporte_id
+- descripcion
+- estado
+- fecha
+
+Propósito:
+Mostrar el estado de los reportes generados por la comunidad.

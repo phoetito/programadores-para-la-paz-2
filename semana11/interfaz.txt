@@ -1,0 +1,9 @@
+Una interfaz simple para apoyar causas dentro de una plataforma comunitaria debe incluir:
+
+1. Una formulario accesible donde la persona pueda crear una causa de interés para la comunidad, incluyendo el titulo, descripción y fecha. 
+
+2. Un listado en forma de cuadrícula o tarjetas verticales donde los usuarios puedan ver las causas que pueden apoyar. 
+
+3. Un contador de apoyos que muestra de forma numérica y visible cuántas personas se han sumado a esa causa.
+
+4. Un botón para apoyar la causa que cambia de estado o color una vez que el usuario hace clic en él para confirmar su voto.
