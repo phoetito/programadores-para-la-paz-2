@@ -1,0 +1,11 @@
+1. El usuario escribe el título de la causa, la descripción y presiona "Publicar".
+
+2. El sistema guarda la propuesta en la base de datos y genera un enlace público para compartir.
+
+3. Un ciudadano abre el enlace, escribe su identificación/correo y presiona "Firmar".
+
+4. El sistema verifica que no sea una firma duplicada y suma el apoyo al contador en tiempo real.
+
+5. Al alcanzar la meta de firmas, el creador presiona "Descargar PDF".
+
+6. El sistema genera automáticamente el documento formal con el texto original y la lista de firmantes.

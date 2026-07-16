@@ -1,0 +1,17 @@
+Entidad: Comentario
+-id
+-reporte_id
+-usuario_id
+-texto
+-fecha
+
+Propósito: Permitir que los vecinos aporten detalles adicionales, propongan soluciones o coordinen acciones directamente dentro de la página del reporte.
+
+Entidad: Evidencia
+-id
+-reporte_id
+-url_archivo
+-tipo_archivo
+-fecha
+
+Propósito: Almacenar las pruebas visuales o documentos que los ciudadanos adjuntan a las causas comunitarias.

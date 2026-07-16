@@ -1,0 +1,3 @@
+Evento: Una causa o reporte alcanza las 100 firmas en la base de datos de la plataforma.
+Mensaje: “Una causa acaba de superar las 100 firmas”
+Información que no debe enviarse: Datos de identificación, geolocalización y comentarios que no sean de caracter público.
